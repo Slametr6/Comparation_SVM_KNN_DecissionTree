@@ -1,1 +1,2 @@
-# Comparation_SVM_KNN_DecissionTree
+# Comparation SVM, KNN & DecissionTree
+
